@@ -1,39 +1,18 @@
 {
     "total_sales":[
-        {"time_id":"2023-10-03","total_sales":144.71},
-        {"time_id":"2023-10-01","total_sales":61.9434},
-        {"time_id":"2023-10-01","total_sales":187.1732},
-        {"time_id":"2023-10-03","total_sales":180.97},
-        {"time_id":"2023-10-03","total_sales":271.7847},
-        {"time_id":"2023-10-01","total_sales":49.1284},
-        {"time_id":"2023-10-02","total_sales":108.8264},
-        {"time_id":"2023-10-02","total_sales":11.0213},
-        {"time_id":"2023-10-03","total_sales":191.6538},
-        {"time_id":"2023-10-03","total_sales":267.6178}
+        {"time_id":"2023-10-03", "total_sales": 1056.7363},
+        {"time_id":"2023-10-01", "total_sales": 298.245},
+        {"time_id":"2023-10-02", "total_sales": 119.8477}
     ],
     "sales_without_shipping":[
-        {"time_id":"2023-10-03","total_sales":4.71},
-        {"time_id":"2023-10-01","total_sales":1.9434},
-        {"time_id":"2023-10-01","total_sales":7.1732},
-        {"time_id":"2023-10-03","total_sales":0.97},
-        {"time_id":"2023-10-03","total_sales":1.7847},
-        {"time_id":"2023-10-01","total_sales":9.1284},
-        {"time_id":"2023-10-02","total_sales":8.8264},
-        {"time_id":"2023-10-02","total_sales":1.0213},
-        {"time_id":"2023-10-03","total_sales":1.6538},
-        {"time_id":"2023-10-03","total_sales":7.6178}
+        {"time_id":"2023-10-03","total_sales":16.7363},
+        {"time_id":"2023-10-01","total_sales":18.2449},
+        {"time_id":"2023-10-02","total_sales":9.8477}
     ],
     "total_shipments":[
-        {"time_id":"2023-10-03","total_ship":9.8093},
-        {"time_id":"2023-10-01","total_ship":4.3831},
-        {"time_id":"2023-10-01","total_ship":6.9676},
-        {"time_id":"2023-10-03","total_ship":2.5556},
-        {"time_id":"2023-10-03","total_ship":2.3865},
-        {"time_id":"2023-10-01","total_ship":2.6235},
-        {"time_id":"2023-10-02","total_ship":1.7231},
-        {"time_id":"2023-10-02","total_ship":3.0264},
-        {"time_id":"2023-10-03","total_ship":9.661},
-        {"time_id":"2023-10-03","total_ship":7.7291}
+        {"time_id":"2023-10-03","total_ship":32.1415},
+        {"time_id":"2023-10-01","total_ship":13.9742},
+        {"time_id":"2023-10-02","total_ship":4.7495}
     ],
     "number_transactions":[
         {"time_id":"2023-10-03","increment_id":"10000001"},

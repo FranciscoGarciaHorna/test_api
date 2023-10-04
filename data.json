@@ -15,16 +15,9 @@
         {"time_id":"2023-10-02","total_ship":4.7495}
     ],
     "number_transactions":[
-        {"time_id":"2023-10-03","increment_id":"10000001"},
-        {"time_id":"2023-10-01","increment_id":"10000002"},
-        {"time_id":"2023-10-01","increment_id":"10000003"},
-        {"time_id":"2023-10-03","increment_id":"10000004"},
-        {"time_id":"2023-10-03","increment_id":"10000005"},
-        {"time_id":"2023-10-01","increment_id":"10000006"},
-        {"time_id":"2023-10-02","increment_id":"10000007"},
-        {"time_id":"2023-10-02","increment_id":"10000008"},
-        {"time_id":"2023-10-03","increment_id":"10000009"},
-        {"time_id":"2023-10-03","increment_id":"10000010"}
+        {"time_id":"2023-10-03","increment_id":4},
+        {"time_id":"2023-10-01","increment_id":4},
+        {"time_id":"2023-10-02","increment_id":2}
     ],
     "sub_account": [
         {"time_id":"2023-10-03","sub_account_name":"Rokys"},

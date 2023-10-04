@@ -11,6 +11,18 @@
         {"time_id":"2023-10-03","total_sales":191.6538},
         {"time_id":"2023-10-03","total_sales":267.6178}
     ],
+    "sales_without_shipping":[
+        {"time_id":"2023-10-03","total_sales":4.71},
+        {"time_id":"2023-10-01","total_sales":1.9434},
+        {"time_id":"2023-10-01","total_sales":7.1732},
+        {"time_id":"2023-10-03","total_sales":0.97},
+        {"time_id":"2023-10-03","total_sales":1.7847},
+        {"time_id":"2023-10-01","total_sales":9.1284},
+        {"time_id":"2023-10-02","total_sales":8.8264},
+        {"time_id":"2023-10-02","total_sales":1.0213},
+        {"time_id":"2023-10-03","total_sales":1.6538},
+        {"time_id":"2023-10-03","total_sales":7.6178}
+    ],
     "total_shipments":[
         {"time_id":"2023-10-03","total_ship":9.8093},
         {"time_id":"2023-10-01","total_ship":4.3831},

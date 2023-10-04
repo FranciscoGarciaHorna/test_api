@@ -34,5 +34,29 @@
         {"time_id":"2023-10-02","increment_id":"10000008"},
         {"time_id":"2023-10-03","increment_id":"10000009"},
         {"time_id":"2023-10-03","increment_id":"10000010"}
+    ],
+    "sub_account": [
+        {"time_id":"2023-10-03","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-01","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-01","sub_account_name":"Viena"},
+        {"time_id":"2023-10-03","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-03","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-01","sub_account_name":"Rodizio"},
+        {"time_id":"2023-10-02","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-02","sub_account_name":"Panificadora Rokys"},
+        {"time_id":"2023-10-03","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys"}
+    ],
+    "store": [
+        {"time_id":"2023-10-03","store_name":"Tienda ATE"},
+        {"time_id":"2023-10-01","store_name":"Tienda ALCAZAR"},
+        {"time_id":"2023-10-01","store_name":"Tienda Benavides"},
+        {"time_id":"2023-10-03","store_name":"BARRANCA 01"},
+        {"time_id":"2023-10-03","store_name":"Tienda GARZON"},
+        {"time_id":"2023-10-01","store_name":"Tienda Benavides"},
+        {"time_id":"2023-10-02","store_name":"Tienda BENAVIDES"},
+        {"time_id":"2023-10-02","store_name":"Tienda ALCAZAR"},
+        {"time_id":"2023-10-03","store_name":"Tienda Benavides"},
+        {"time_id":"2023-10-03","store_name":"Tienda Benavides"}
     ]
  }

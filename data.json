@@ -601,7 +601,7 @@
           "increment_id":10000100
        }
     ],
-    "total in shipments":[
+    "total_shipments":[
        {
           "time_id":"2023-10-03",
           "total_sales":144.71,

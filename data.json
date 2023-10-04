@@ -47,16 +47,16 @@
         {"time_id":"2023-10-03","sub_account_name":"Rokys"},
         {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys"}
     ],
-    "store": [
-        {"time_id":"2023-10-03","increment_id":"10000001","store_name":"Tienda ATE"},
-        {"time_id":"2023-10-01","increment_id":"10000002","store_name":"Tienda ALCAZAR"},
-        {"time_id":"2023-10-01","increment_id":"10000003","store_name":"Tienda Benavides"},
-        {"time_id":"2023-10-03","increment_id":"10000004","store_name":"BARRANCA 01"},
-        {"time_id":"2023-10-03","increment_id":"10000005","store_name":"Tienda GARZON"},
-        {"time_id":"2023-10-01","increment_id":"10000006","store_name":"Tienda Benavides"},
-        {"time_id":"2023-10-02","increment_id":"10000007","store_name":"Tienda BENAVIDES"},
-        {"time_id":"2023-10-02","increment_id":"10000008","store_name":"Tienda ALCAZAR"},
-        {"time_id":"2023-10-03","increment_id":"10000009","store_name":"Tienda Benavides"},
-        {"time_id":"2023-10-03","increment_id":"10000010","store_name":"Tienda Benavides"}
+    "sales_by_store": [
+        {"time_id":"2023-10-03","total_sales":144.71,"store_name":"Tienda ATE"},
+        {"time_id":"2023-10-01","total_sales":61.9434,"store_name":"Tienda ALCAZAR"},
+        {"time_id":"2023-10-01","total_sales":187.1732,"store_name":"Tienda Benavides"},
+        {"time_id":"2023-10-03","total_sales":180.97,"store_name":"BARRANCA 01"},
+        {"time_id":"2023-10-03","total_sales":271.7847,"store_name":"Tienda GARZON"},
+        {"time_id":"2023-10-01","total_sales":49.1284,"store_name":"Tienda Benavides"},
+        {"time_id":"2023-10-02","total_sales":108.8264,"store_name":"Tienda BENAVIDES"},
+        {"time_id":"2023-10-02","total_sales":11.0213,"store_name":"Tienda ALCAZAR"},
+        {"time_id":"2023-10-03","total_sales":191.6538,"store_name":"Tienda Benavides"},
+        {"time_id":"2023-10-03","total_sales":267.6178,"store_name":"Tienda Benavides"}
     ]
  }

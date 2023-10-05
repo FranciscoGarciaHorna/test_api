@@ -68,27 +68,27 @@
         {"time_id":"2023-10-03","total_sales":267.6178,"method_name":"POS Visa"}
     ],
     "sales_by_device": [
-        {"time_id":"2023-10-03","total_sales":144.71,"method_name":"web"},
-        {"time_id":"2023-10-01","total_sales":61.9434,"method_name":"tablet"},
-        {"time_id":"2023-10-01","total_sales":187.1732,"method_name":"phone"},
-        {"time_id":"2023-10-03","total_sales":180.97,"method_name":"web"},
-        {"time_id":"2023-10-03","total_sales":271.7847,"method_name":"web"},
-        {"time_id":"2023-10-01","total_sales":49.1284,"method_name":"phone"},
-        {"time_id":"2023-10-02","total_sales":108.8264,"method_name":"phone"},
-        {"time_id":"2023-10-02","total_sales":11.0213,"method_name":"web"},
-        {"time_id":"2023-10-03","total_sales":191.6538,"method_name":"web"},
-        {"time_id":"2023-10-03","total_sales":267.6178,"method_name":"tablet"}
+        {"time_id":"2023-10-03","total_sales":144.71,"device_name":"web"},
+        {"time_id":"2023-10-01","total_sales":61.9434,"device_name":"tablet"},
+        {"time_id":"2023-10-01","total_sales":187.1732,"device_name":"phone"},
+        {"time_id":"2023-10-03","total_sales":180.97,"device_name":"web"},
+        {"time_id":"2023-10-03","total_sales":271.7847,"device_name":"web"},
+        {"time_id":"2023-10-01","total_sales":49.1284,"device_name":"phone"},
+        {"time_id":"2023-10-02","total_sales":108.8264,"device_name":"phone"},
+        {"time_id":"2023-10-02","total_sales":11.0213,"device_name":"web"},
+        {"time_id":"2023-10-03","total_sales":191.6538,"device_name":"web"},
+        {"time_id":"2023-10-03","total_sales":267.6178,"device_name":"tablet"}
     ],
     "sales_by_dis": [
-        {"time_id":"2023-10-03","total_sales":144.71,"method_name":"Trujillo"},
-        {"time_id":"2023-10-01","total_sales":61.9434,"method_name":"Brenna"},
-        {"time_id":"2023-10-01","total_sales":187.1732,"method_name":"Miraflores"},
-        {"time_id":"2023-10-03","total_sales":180.97,"method_name":"Trujillo"},
-        {"time_id":"2023-10-03","total_sales":271.7847,"method_name":"Lima"},
-        {"time_id":"2023-10-01","total_sales":49.1284,"method_name":"Brenna"},
-        {"time_id":"2023-10-02","total_sales":108.8264,"method_name":"Miraflores"},
-        {"time_id":"2023-10-02","total_sales":11.0213,"method_name":"Trujillo"},
-        {"time_id":"2023-10-03","total_sales":191.6538,"method_name":"Trujillo"},
-        {"time_id":"2023-10-03","total_sales":267.6178,"method_name":"Miraflores"}
+        {"time_id":"2023-10-03","total_sales":144.71,"dis_name":"Trujillo"},
+        {"time_id":"2023-10-01","total_sales":61.9434,"dis_name":"Brenna"},
+        {"time_id":"2023-10-01","total_sales":187.1732,"dis_name":"Miraflores"},
+        {"time_id":"2023-10-03","total_sales":180.97,"dis_name":"Trujillo"},
+        {"time_id":"2023-10-03","total_sales":271.7847,"dis_name":"Lima"},
+        {"time_id":"2023-10-01","total_sales":49.1284,"dis_name":"Brenna"},
+        {"time_id":"2023-10-02","total_sales":108.8264,"dis_name":"Miraflores"},
+        {"time_id":"2023-10-02","total_sales":11.0213,"dis_name":"Trujillo"},
+        {"time_id":"2023-10-03","total_sales":191.6538,"dis_name":"Trujillo"},
+        {"time_id":"2023-10-03","total_sales":267.6178,"dis_name":"Miraflores"}
     ]
  }

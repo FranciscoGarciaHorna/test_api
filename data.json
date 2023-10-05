@@ -42,5 +42,53 @@
         {"time_id":"2023-10-02","total_sales":11.0213,"store_name":"Tienda ALCAZAR"},
         {"time_id":"2023-10-03","total_sales":191.6538,"store_name":"Tienda Benavides"},
         {"time_id":"2023-10-03","total_sales":267.6178,"store_name":"Tienda Benavides"}
+    ],
+    "sales_by_shipping_method": [
+        {"time_id":"2023-10-03","total_sales":144.71,"method_name":"Delivery"},
+        {"time_id":"2023-10-01","total_sales":61.9434,"method_name":"Delivery"},
+        {"time_id":"2023-10-01","total_sales":187.1732,"method_name":"Recojo en tienda"},
+        {"time_id":"2023-10-03","total_sales":180.97,"method_name":"Recojo en tienda"},
+        {"time_id":"2023-10-03","total_sales":271.7847,"method_name":"Recojo en tienda"},
+        {"time_id":"2023-10-01","total_sales":49.1284,"method_name":"Delivery"},
+        {"time_id":"2023-10-02","total_sales":108.8264,"method_name":"Delivery"},
+        {"time_id":"2023-10-02","total_sales":11.0213,"method_name":"Recojo en tienda"},
+        {"time_id":"2023-10-03","total_sales":191.6538,"method_name":"Recojo en tienda"},
+        {"time_id":"2023-10-03","total_sales":267.6178,"method_name":"Delivery"}
+    ],
+    "sales_by_payment_method": [
+        {"time_id":"2023-10-03","total_sales":144.71,"method_name":"Efectivo"},
+        {"time_id":"2023-10-01","total_sales":61.9434,"method_name":"POS Visa"},
+        {"time_id":"2023-10-01","total_sales":187.1732,"method_name":"POS Visa"},
+        {"time_id":"2023-10-03","total_sales":180.97,"method_name":"Efectivo"},
+        {"time_id":"2023-10-03","total_sales":271.7847,"method_name":"Efectivo"},
+        {"time_id":"2023-10-01","total_sales":49.1284,"method_name":"POS Visa"},
+        {"time_id":"2023-10-02","total_sales":108.8264,"method_name":"POS Visa"},
+        {"time_id":"2023-10-02","total_sales":11.0213,"method_name":"Efectivo"},
+        {"time_id":"2023-10-03","total_sales":191.6538,"method_name":"Efectivo"},
+        {"time_id":"2023-10-03","total_sales":267.6178,"method_name":"POS Visa"}
+    ],
+    "sales_by_device": [
+        {"time_id":"2023-10-03","total_sales":144.71,"method_name":"web"},
+        {"time_id":"2023-10-01","total_sales":61.9434,"method_name":"tablet"},
+        {"time_id":"2023-10-01","total_sales":187.1732,"method_name":"phone"},
+        {"time_id":"2023-10-03","total_sales":180.97,"method_name":"web"},
+        {"time_id":"2023-10-03","total_sales":271.7847,"method_name":"web"},
+        {"time_id":"2023-10-01","total_sales":49.1284,"method_name":"phone"},
+        {"time_id":"2023-10-02","total_sales":108.8264,"method_name":"phone"},
+        {"time_id":"2023-10-02","total_sales":11.0213,"method_name":"web"},
+        {"time_id":"2023-10-03","total_sales":191.6538,"method_name":"web"},
+        {"time_id":"2023-10-03","total_sales":267.6178,"method_name":"tablet"}
+    ],
+    "sales_by_dis": [
+        {"time_id":"2023-10-03","total_sales":144.71,"method_name":"Trujillo"},
+        {"time_id":"2023-10-01","total_sales":61.9434,"method_name":"Brenna"},
+        {"time_id":"2023-10-01","total_sales":187.1732,"method_name":"Miraflores"},
+        {"time_id":"2023-10-03","total_sales":180.97,"method_name":"Trujillo"},
+        {"time_id":"2023-10-03","total_sales":271.7847,"method_name":"Lima"},
+        {"time_id":"2023-10-01","total_sales":49.1284,"method_name":"Brenna"},
+        {"time_id":"2023-10-02","total_sales":108.8264,"method_name":"Miraflores"},
+        {"time_id":"2023-10-02","total_sales":11.0213,"method_name":"Trujillo"},
+        {"time_id":"2023-10-03","total_sales":191.6538,"method_name":"Trujillo"},
+        {"time_id":"2023-10-03","total_sales":267.6178,"method_name":"Miraflores"}
     ]
  }

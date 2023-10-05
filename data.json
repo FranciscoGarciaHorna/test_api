@@ -90,5 +90,17 @@
         {"time_id":"2023-10-02","total_sales":11.0213,"dis_name":"Trujillo"},
         {"time_id":"2023-10-03","total_sales":191.6538,"dis_name":"Trujillo"},
         {"time_id":"2023-10-03","total_sales":267.6178,"dis_name":"Miraflores"}
+    ],
+    "top_products": [
+        {"time_id":"2023-10-03", "product_name": "product 1", "product_sku": "sku-1", "product_quantity": 0, "total_sales":144.71},
+        {"time_id":"2023-10-01", "product_name": "product 2", "product_sku": "sku-2", "product_quantity": 0, "total_sales":61.9434},
+        {"time_id":"2023-10-01", "product_name": "product 3", "product_sku": "sku-3", "product_quantity": 0, "total_sales":187.1732},
+        {"time_id":"2023-10-03", "product_name": "product 4", "product_sku": "sku-4", "product_quantity": 0, "total_sales":180.97},
+        {"time_id":"2023-10-03", "product_name": "product 5", "product_sku": "sku-5", "product_quantity": 0, "total_sales":271.7847},
+        {"time_id":"2023-10-01", "product_name": "product 6", "product_sku": "sku-6", "product_quantity": 0, "total_sales":49.1284},
+        {"time_id":"2023-10-02", "product_name": "product 7", "product_sku": "sku-7", "product_quantity": 0, "total_sales":108.8264},
+        {"time_id":"2023-10-02", "product_name": "product 8", "product_sku": "sku-8", "product_quantity": 0, "total_sales":11.0213},
+        {"time_id":"2023-10-03", "product_name": "product 9", "product_sku": "sku-9", "product_quantity": 0, "total_sales":191.6538},
+        {"time_id":"2023-10-03", "product_name": "product 10", "product_sku": "sku-10", "product_quantity": 0, "total_sales":267.6178}
     ]
  }

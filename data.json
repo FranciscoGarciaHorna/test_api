@@ -1,106 +1,118 @@
 {
     "total_sales":[
-        {"time_id":"2023-10-03", "total_sales": 1056.7363},
-        {"time_id":"2023-10-01", "total_sales": 298.245},
-        {"time_id":"2023-10-02", "total_sales": 119.8477}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","total_sales": 298.245},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","total_sales": 119.8477},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","total_sales": 1056.7363}
     ],
     "sales_without_shipping":[
-        {"time_id":"2023-10-03","total_sales":16.7363},
-        {"time_id":"2023-10-01","total_sales":18.2449},
-        {"time_id":"2023-10-02","total_sales":9.8477}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","total_sales":18.2449},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","total_sales":9.8477},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","total_sales":16.7363}
     ],
     "total_shipments":[
-        {"time_id":"2023-10-03","total_ship":32.1415},
-        {"time_id":"2023-10-01","total_ship":13.9742},
-        {"time_id":"2023-10-02","total_ship":4.7495}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","total_ship":13.9742},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","total_ship":4.7495},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","total_ship":32.1415}
     ],
     "number_transactions":[
-        {"time_id":"2023-10-03","increment_id":4},
-        {"time_id":"2023-10-01","increment_id":4},
-        {"time_id":"2023-10-02","increment_id":2}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","increment_id":4},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","increment_id":2},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","increment_id":4}
     ],
     "sub_account": [
-        {"time_id":"2023-10-03","sub_account_name":"Rokys"},
-        {"time_id":"2023-10-01","sub_account_name":"Rokys"},
-        {"time_id":"2023-10-01","sub_account_name":"Viena"},
-        {"time_id":"2023-10-03","sub_account_name":"Rokys"},
-        {"time_id":"2023-10-03","sub_account_name":"Rokys"},
-        {"time_id":"2023-10-01","sub_account_name":"Rodizio"},
-        {"time_id":"2023-10-02","sub_account_name":"Rokys"},
-        {"time_id":"2023-10-02","sub_account_name":"Panificadora Rokys"},
-        {"time_id":"2023-10-03","sub_account_name":"Rokys"},
-        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys"}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys"},
+
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena"},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena"},
+
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"}
     ],
     "sales_by_store": [
-        {"time_id":"2023-10-03","total_sales":144.71,"store_name":"Tienda ATE"},
-        {"time_id":"2023-10-01","total_sales":61.9434,"store_name":"Tienda ALCAZAR"},
-        {"time_id":"2023-10-01","total_sales":187.1732,"store_name":"Tienda Benavides"},
-        {"time_id":"2023-10-03","total_sales":180.97,"store_name":"BARRANCA 01"},
-        {"time_id":"2023-10-03","total_sales":271.7847,"store_name":"Tienda GARZON"},
-        {"time_id":"2023-10-01","total_sales":49.1284,"store_name":"Tienda Benavides"},
-        {"time_id":"2023-10-02","total_sales":108.8264,"store_name":"Tienda BENAVIDES"},
-        {"time_id":"2023-10-02","total_sales":11.0213,"store_name":"Tienda ALCAZAR"},
-        {"time_id":"2023-10-03","total_sales":191.6538,"store_name":"Tienda Benavides"},
-        {"time_id":"2023-10-03","total_sales":267.6178,"store_name":"Tienda Benavides"}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","total_sales":61.9434},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","total_sales":187.1732},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","total_sales":49.1284},
+
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","total_sales":108.8264},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","total_sales":11.0213},
+
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","total_sales":144.71},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","total_sales":180.97},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","total_sales":271.7847},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","total_sales":191.6538},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","total_sales":267.6178}
     ],
     "sales_by_shipping_method": [
-        {"time_id":"2023-10-03","total_sales":144.71,"method_name":"Delivery"},
-        {"time_id":"2023-10-01","total_sales":61.9434,"method_name":"Delivery"},
-        {"time_id":"2023-10-01","total_sales":187.1732,"method_name":"Recojo en tienda"},
-        {"time_id":"2023-10-03","total_sales":180.97,"method_name":"Recojo en tienda"},
-        {"time_id":"2023-10-03","total_sales":271.7847,"method_name":"Recojo en tienda"},
-        {"time_id":"2023-10-01","total_sales":49.1284,"method_name":"Delivery"},
-        {"time_id":"2023-10-02","total_sales":108.8264,"method_name":"Delivery"},
-        {"time_id":"2023-10-02","total_sales":11.0213,"method_name":"Recojo en tienda"},
-        {"time_id":"2023-10-03","total_sales":191.6538,"method_name":"Recojo en tienda"},
-        {"time_id":"2023-10-03","total_sales":267.6178,"method_name":"Delivery"}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","method_name":"Delivery","total_sales":61.9434},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","method_name":"Recojo en tienda","total_sales":187.1732},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","method_name":"Delivery","total_sales":49.1284},
+
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","method_name":"Delivery","total_sales":108.8264},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","method_name":"Recojo en tienda","total_sales":11.0213},
+
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"Recojo en tienda","total_sales":191.6538},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"Delivery","total_sales":267.6178},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"Delivery","total_sales":144.71},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"Recojo en tienda","total_sales":180.97},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"Recojo en tienda","total_sales":271.7847}
     ],
     "sales_by_payment_method": [
-        {"time_id":"2023-10-03","total_sales":144.71,"method_name":"Efectivo"},
-        {"time_id":"2023-10-01","total_sales":61.9434,"method_name":"POS Visa"},
-        {"time_id":"2023-10-01","total_sales":187.1732,"method_name":"POS Visa"},
-        {"time_id":"2023-10-03","total_sales":180.97,"method_name":"Efectivo"},
-        {"time_id":"2023-10-03","total_sales":271.7847,"method_name":"Efectivo"},
-        {"time_id":"2023-10-01","total_sales":49.1284,"method_name":"POS Visa"},
-        {"time_id":"2023-10-02","total_sales":108.8264,"method_name":"POS Visa"},
-        {"time_id":"2023-10-02","total_sales":11.0213,"method_name":"Efectivo"},
-        {"time_id":"2023-10-03","total_sales":191.6538,"method_name":"Efectivo"},
-        {"time_id":"2023-10-03","total_sales":267.6178,"method_name":"POS Visa"}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","method_name":"POS Visa","total_sales":61.9434},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","method_name":"POS Visa","total_sales":187.1732},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","method_name":"POS Visa","total_sales":49.1284},
+
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","method_name":"POS Visa","total_sales":108.8264},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","method_name":"Efectivo","total_sales":11.0213},
+
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"Efectivo","total_sales":144.71},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"Efectivo","total_sales":180.97},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"Efectivo","total_sales":271.7847},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"Efectivo","total_sales":191.6538},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","method_name":"POS Visa","total_sales":267.6178}
     ],
     "sales_by_device": [
-        {"time_id":"2023-10-03","total_sales":144.71,"device_name":"web"},
-        {"time_id":"2023-10-01","total_sales":61.9434,"device_name":"tablet"},
-        {"time_id":"2023-10-01","total_sales":187.1732,"device_name":"phone"},
-        {"time_id":"2023-10-03","total_sales":180.97,"device_name":"web"},
-        {"time_id":"2023-10-03","total_sales":271.7847,"device_name":"web"},
-        {"time_id":"2023-10-01","total_sales":49.1284,"device_name":"phone"},
-        {"time_id":"2023-10-02","total_sales":108.8264,"device_name":"phone"},
-        {"time_id":"2023-10-02","total_sales":11.0213,"device_name":"web"},
-        {"time_id":"2023-10-03","total_sales":191.6538,"device_name":"web"},
-        {"time_id":"2023-10-03","total_sales":267.6178,"device_name":"tablet"}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","device_name":"tablet","total_sales":61.9434},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","device_name":"phone","total_sales":187.1732},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","device_name":"phone","total_sales":49.1284},
+
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","device_name":"phone","total_sales":108.8264},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","device_name":"web","total_sales":11.0213},
+
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","device_name":"web","total_sales":191.6538},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","device_name":"web","total_sales":180.97},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","device_name":"web","total_sales":271.7847},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","device_name":"web","total_sales":144.71},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","device_name":"tablet","total_sales":267.6178}
     ],
     "sales_by_dis": [
-        {"time_id":"2023-10-03","total_sales":144.71,"dis_name":"Trujillo"},
-        {"time_id":"2023-10-01","total_sales":61.9434,"dis_name":"Brenna"},
-        {"time_id":"2023-10-01","total_sales":187.1732,"dis_name":"Miraflores"},
-        {"time_id":"2023-10-03","total_sales":180.97,"dis_name":"Trujillo"},
-        {"time_id":"2023-10-03","total_sales":271.7847,"dis_name":"Lima"},
-        {"time_id":"2023-10-01","total_sales":49.1284,"dis_name":"Brenna"},
-        {"time_id":"2023-10-02","total_sales":108.8264,"dis_name":"Miraflores"},
-        {"time_id":"2023-10-02","total_sales":11.0213,"dis_name":"Trujillo"},
-        {"time_id":"2023-10-03","total_sales":191.6538,"dis_name":"Trujillo"},
-        {"time_id":"2023-10-03","total_sales":267.6178,"dis_name":"Miraflores"}
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","dis_name":"Brenna","total_sales":61.9434},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","dis_name":"Miraflores","total_sales":187.1732},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","dis_name":"Brenna","total_sales":49.1284},
+
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","dis_name":"Miraflores","total_sales":108.8264},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","dis_name":"Trujillo","total_sales":11.0213},
+
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","dis_name":"Trujillo","total_sales":180.97},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","dis_name":"Lima","total_sales":271.7847},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","dis_name":"Trujillo","total_sales":144.71},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","dis_name":"Trujillo","total_sales":191.6538},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","dis_name":"Miraflores","total_sales":267.6178}
     ],
     "top_products": [
-        {"time_id":"2023-10-03", "product_name": "product 1", "product_sku": "sku-1", "product_quantity": 0, "total_sales":144.71},
-        {"time_id":"2023-10-01", "product_name": "product 2", "product_sku": "sku-2", "product_quantity": 0, "total_sales":61.9434},
-        {"time_id":"2023-10-01", "product_name": "product 3", "product_sku": "sku-3", "product_quantity": 0, "total_sales":187.1732},
-        {"time_id":"2023-10-03", "product_name": "product 4", "product_sku": "sku-4", "product_quantity": 0, "total_sales":180.97},
-        {"time_id":"2023-10-03", "product_name": "product 5", "product_sku": "sku-5", "product_quantity": 0, "total_sales":271.7847},
-        {"time_id":"2023-10-01", "product_name": "product 6", "product_sku": "sku-6", "product_quantity": 0, "total_sales":49.1284},
-        {"time_id":"2023-10-02", "product_name": "product 7", "product_sku": "sku-7", "product_quantity": 0, "total_sales":108.8264},
-        {"time_id":"2023-10-02", "product_name": "product 8", "product_sku": "sku-8", "product_quantity": 0, "total_sales":11.0213},
-        {"time_id":"2023-10-03", "product_name": "product 9", "product_sku": "sku-9", "product_quantity": 0, "total_sales":191.6538},
-        {"time_id":"2023-10-03", "product_name": "product 10", "product_sku": "sku-10", "product_quantity": 0, "total_sales":267.6178}
+        {"time_id":"2023-10-03","cluster_name": "Cluster 1","product_name": "product 1","product_sku": "sku-1","product_quantity": 1,"total_sales":144.71},
+        {"time_id":"2023-10-01","cluster_name": "Cluster 1","product_name": "product 2","product_sku": "sku-2","product_quantity": 2,"total_sales":61.9434},
+        {"time_id":"2023-10-01","cluster_name": "Cluster 1","product_name": "product 3","product_sku": "sku-3","product_quantity": 3,"total_sales":187.1732},
+        {"time_id":"2023-10-03","cluster_name": "Cluster 2","product_name": "product 4","product_sku": "sku-4","product_quantity": 4,"total_sales":180.97},
+        {"time_id":"2023-10-03","cluster_name": "Cluster 2","product_name": "product 5","product_sku": "sku-5","product_quantity": 6,"total_sales":271.7847},
+        {"time_id":"2023-10-01","cluster_name": "Cluster 1","product_name": "product 6","product_sku": "sku-6","product_quantity": 7,"total_sales":49.1284},
+        {"time_id":"2023-10-02","cluster_name": "Cluster 1","product_name": "product 7","product_sku": "sku-7","product_quantity": 9,"total_sales":108.8264},
+        {"time_id":"2023-10-02","cluster_name": "Cluster 2","product_name": "product 8","product_sku": "sku-8","product_quantity": 1,"total_sales":11.0213},
+        {"time_id":"2023-10-03","cluster_name": "Cluster 1","product_name": "product 9","product_sku": "sku-9","product_quantity": 70,"total_sales":191.6538},
+        {"time_id":"2023-10-03","cluster_name": "Cluster 1","product_name": "product 10","product_sku": "sku-10","product_quantity": 5,"total_sales":267.6178}
     ]
  }

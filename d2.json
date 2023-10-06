@@ -1,0 +1,58 @@
+{
+    "sales_by_payment_method": [
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"POS Visa","total_sales":61.9434},
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"POS Visa","total_sales":187.1732},
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"POS Visa","total_sales":49.1284},
+
+        {"time_id":"2023-10-02","sub_account_name":"Viena","channel_name":"Web eccomerce","store_name":"Tienda Benavides","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"POS Visa","total_sales":108.8264},
+        {"time_id":"2023-10-02","sub_account_name":"Viena","channel_name":"Web eccomerce","store_name":"Tienda Benavides","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"Efectivo","total_sales":11.0213},
+
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"Efectivo","total_sales":144.71},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"Efectivo","total_sales":180.97},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"Efectivo","total_sales":271.7847},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"Efectivo","total_sales":191.6538},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"POS Visa","total_sales":267.6178}
+    ],
+    "sales_by_dis": [
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Brenna","total_sales":61.9434},
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Miraflores","total_sales":187.1732},
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Brenna","total_sales":49.1284},
+
+        {"time_id":"2023-10-02","sub_account_name":"Viena","channel_name":"Web eccomerce","store_name":"Tienda Benavides","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Miraflores","total_sales":108.8264},
+        {"time_id":"2023-10-02","sub_account_name":"Viena","channel_name":"Web eccomerce","store_name":"Tienda Benavides","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Trujillo","total_sales":11.0213},
+
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Trujillo","total_sales":180.97},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Lima","total_sales":271.7847},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Trujillo","total_sales":144.71},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Trujillo","total_sales":191.6538},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","dis_name":"Miraflores","total_sales":267.6178}
+    ],
+    "sales_by_store": [
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":61.9434},
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":187.1732},
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":49.1284},
+
+        {"time_id":"2023-10-02","sub_account_name":"Viena","channel_name":"Web eccomerce","store_name":"Tienda Benavides","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":108.8264},
+        {"time_id":"2023-10-02","sub_account_name":"Viena","channel_name":"Web eccomerce","store_name":"Tienda Benavides","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":11.0213},
+
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":144.71},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":180.97},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":271.7847},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":191.6538},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","total_sales":267.6178}
+    ],
+    "top_products": [
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 2","product_sku": "sku-2","product_quantity": 2,"total_sales":61.9434},
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 3","product_sku": "sku-3","product_quantity": 3,"total_sales":187.1732},
+        {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 6","product_sku": "sku-6","product_quantity": 7,"total_sales":49.1284},
+
+        {"time_id":"2023-10-02","sub_account_name":"Viena","channel_name":"Web eccomerce","store_name":"Tienda Benavides","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 7","product_sku": "sku-7","product_quantity": 9,"total_sales":108.8264},
+        {"time_id":"2023-10-02","sub_account_name":"Viena","channel_name":"Web eccomerce","store_name":"Tienda Benavides","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 8","product_sku": "sku-8","product_quantity": 1,"total_sales":11.0213},
+
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 9","product_sku": "sku-9","product_quantity": 70,"total_sales":191.6538},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 1","product_sku": "sku-1","product_quantity": 1,"total_sales":144.71},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 4","product_sku": "sku-4","product_quantity": 4,"total_sales":180.97},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 5","product_sku": "sku-5","product_quantity": 6,"total_sales":271.7847},
+        {"time_id":"2023-10-03","sub_account_name":"Panificadora Rokys","channel_name":"Web eccomerce","store_name":"Tienda ALCAZAR","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","product_name": "product 10","product_sku": "sku-10","product_quantity": 5,"total_sales":267.6178}
+    ]
+}

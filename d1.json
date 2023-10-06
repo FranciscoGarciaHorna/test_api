@@ -33,20 +33,6 @@
         {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","increment_id":2},
         {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys","increment_id":4}
     ],
-    "sub_account": [
-        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys"},
-        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys"},
-        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys"},
-
-        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena"},
-        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena"},
-
-        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
-        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
-        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
-        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
-        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"}
-    ],
     "sales_by_store": [
         {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","total_sales":61.9434},
         {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","total_sales":187.1732},

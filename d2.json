@@ -1,9 +1,9 @@
 {
     "list_accounts": [
-        {"account_name": "Rokys"},
-        {"account_name": "Viena"},
-        {"account_name": "Panificadora Rokys"},
-        {"account_name": "Otra cuenta"}
+        {"sub_account_name": "Rokys"},
+        {"sub_account_name": "Viena"},
+        {"sub_account_name": "Panificadora Rokys"},
+        {"sub_account_name": "Otra cuenta"}
     ],
     "sales_by_payment_method": [
         {"time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","store_name":"BARRANCA 01","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General","method_name":"POS Visa","total_sales":61.9434},

@@ -1,4 +1,18 @@
 {
+    "list_filters": [
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys"},
+        {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys"},
+
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena"},
+        {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena"},
+
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"},
+        {"time_id":"2023-10-03","store_name":"Tienda ALCAZAR","sub_account_name":"Panificadora Rokys"}
+    ],
     "total_sales":[
         {"time_id":"2023-10-01","store_name":"BARRANCA 01","sub_account_name":"Rokys","total_sales": 298.245},
         {"time_id":"2023-10-02","store_name":"Tienda Benavides","sub_account_name":"Viena","total_sales": 119.8477},

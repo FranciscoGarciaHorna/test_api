@@ -1,0 +1,34 @@
+{
+   "outgoing_calls":[
+        {"time_id":"2023-10-01", "quantity": 10},
+        {"time_id":"2023-10-02", "quantity": 20},
+        {"time_id":"2023-10-03", "quantity": 10},
+        {"time_id":"2023-10-04", "quantity": 10},
+        {"time_id":"2023-10-05", "quantity": 20},
+        {"time_id":"2023-10-06", "quantity": 10}
+    ],
+    "average_service_time": [
+        {"time_id":"2023-10-01", "quantity": 3.6},
+        {"time_id":"2023-10-02", "quantity": 6.9},
+        {"time_id":"2023-10-03", "quantity": 10.8},
+        {"time_id":"2023-10-04", "quantity": 34.6},
+        {"time_id":"2023-10-05", "quantity": 23.7},
+        {"time_id":"2023-10-06", "quantity": 1.9}
+    ],
+    "incoming_calls_by_type": [
+        {"time_id":"2023-10-01", "call_type_name": "Llamada de venta", "quantity": 3.6},
+        {"time_id":"2023-10-02", "call_type_name": "Llamada Cortada", "quantity": 6.9},
+        {"time_id":"2023-10-03", "call_type_name": "Llamada de consulta", "quantity": 10.8},
+        {"time_id":"2023-10-04", "call_type_name": "Llamada de venta", "quantity": 34.6},
+        {"time_id":"2023-10-05", "call_type_name": "Demora de Pedido", "quantity": 23.7},
+        {"time_id":"2023-10-06", "call_type_name": "Llamada Cortada", "quantity": 1.9}
+    ],
+    "outgoing_calls_by_type": [
+        {"time_id":"2023-10-01", "call_type_name": "Anulación Pedido", "quantity": 3.6},
+        {"time_id":"2023-10-02", "call_type_name": "Llamada Cortada", "quantity": 6.9},
+        {"time_id":"2023-10-03", "call_type_name": "Llamada de consulta", "quantity": 10.8},
+        {"time_id":"2023-10-04", "call_type_name": "Reserva Rokys Show", "quantity": 34.6},
+        {"time_id":"2023-10-05", "call_type_name": "Mala Atencion", "quantity": 23.7},
+        {"time_id":"2023-10-06", "call_type_name": "Mala Atencion", "quantity": 1.9}
+    ]
+}

@@ -8,12 +8,12 @@
         {"time_id":"2023-10-06", "quantity": 10}
     ],
     "average_service_time": [
-        {"time_id":"2023-10-01", "duration": 3.6},
-        {"time_id":"2023-10-02", "duration": 6.9},
-        {"time_id":"2023-10-03", "duration": 10.8},
-        {"time_id":"2023-10-04", "duration": 34.6},
-        {"time_id":"2023-10-05", "duration": 23.7},
-        {"time_id":"2023-10-06", "duration": 1.9}
+        {"time_id":"2023-10-01", "duration": 36},
+        {"time_id":"2023-10-02", "duration": 69},
+        {"time_id":"2023-10-03", "duration": 108},
+        {"time_id":"2023-10-04", "duration": 346},
+        {"time_id":"2023-10-05", "duration": 237},
+        {"time_id":"2023-10-06", "duration": 19}
     ],
     "incoming_calls_by_type": [
         {"time_id":"2023-10-01", "call_type_name": "Llamada de venta", "quantity": 3},

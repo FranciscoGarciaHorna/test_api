@@ -271,8 +271,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALL",
-            "quantity": "S/ 507.41",
-            "operation_name": "Soles",
+            "quantity": 507.41,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -285,8 +285,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
-            "quantity": "S/ 357.10",
-            "operation_name": "Soles",
+            "quantity": 357.10,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -299,8 +299,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEB",
-            "quantity": "S/ 1,344.80",
-            "operation_name": "Soles",
+            "quantity":  1344.80,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -313,8 +313,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
-            "quantity": "S/ 171.60",
-            "operation_name": "Soles",
+            "quantity":  171.60,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -327,8 +327,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
-            "quantity": "S/ 2,380.91",
-            "operation_name": "Soles",
+            "quantity": 2380.91,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -341,8 +341,8 @@
         {
             "type": "AGREGADORES",
             "sub_type": "DIDI",
-            "quantity": "S/ 507.41",
-            "operation_name": "Soles",
+            "quantity":  100.00,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -355,8 +355,8 @@
         {
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
-            "quantity": "S/ 357.10",
-            "operation_name": "Soles",
+            "quantity": 29.70,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -369,8 +369,8 @@
         {
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
-            "quantity": "S/ 1,344.80",
-            "operation_name": "Soles",
+            "quantity":  170.70,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -383,8 +383,8 @@
         {
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
-            "quantity": "S/ 171.60",
-            "operation_name": "Soles",
+            "quantity": 300.40,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -397,8 +397,8 @@
         {
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
-            "quantity": "S/ 2,681.31",
-            "operation_name": "Soles",
+            "quantity": 2681.31,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -411,8 +411,8 @@
         {
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
-            "quantity": "88.80 %",
-            "operation_name": "Soles",
+            "quantity": 88.80,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -425,8 +425,8 @@
         {
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
-            "quantity": "11.20 %",
-            "operation_name": "Soles",
+            "quantity": 11.20,
+            "operation_name": "Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -441,7 +441,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALL",
-            "quantity": "12",
+            "quantity": 12,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -455,7 +455,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
-            "quantity": "23",
+            "quantity": 8,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -469,7 +469,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEB",
-            "quantity": "80",
+            "quantity": 27,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -483,7 +483,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
-            "quantity": "45",
+            "quantity": 2,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -497,7 +497,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
-            "quantity": "45",
+            "quantity": 49,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -511,7 +511,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "DIDI",
-            "quantity": "41",
+            "quantity": 1,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -525,7 +525,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
-            "quantity": "6",
+            "quantity": 3,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -539,7 +539,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
-            "quantity": "0",
+            "quantity": 3,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -553,7 +553,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
-            "quantity": "60",
+            "quantity": 7,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -567,7 +567,7 @@
         {
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
-            "quantity": "31",
+            "quantity": 56,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -581,7 +581,7 @@
         {
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
-            "quantity": "88.80 %",
+            "quantity": 87.50,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -595,7 +595,7 @@
         {
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
-            "quantity": "11.20 %",
+            "quantity": 12.50,
             "operation_name": "Trans.",
 
             "time_id":"2023-10-01",
@@ -610,8 +610,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALL",
-            "quantity": "S/ 42.28",
-            "operation_name": "Ticket",
+            "quantity": 42.28,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -624,8 +624,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
-            "quantity": "S/ 44.64",
-            "operation_name": "Ticket",
+            "quantity": 44.64,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -638,8 +638,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEB",
-            "quantity": "S/ 49.81",
-            "operation_name": "Ticket",
+            "quantity": 49.81,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -652,8 +652,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
-            "quantity": "S/ 85.80",
-            "operation_name": "Ticket",
+            "quantity": 85.80,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -666,8 +666,8 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
-            "quantity": "S/ 222.53",
-            "operation_name": "Ticket",
+            "quantity": 222.53,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -680,8 +680,8 @@
         {
             "type": "AGREGADORES",
             "sub_type": "DIDI",
-            "quantity": "S/ 100.00",
-            "operation_name": "Ticket",
+            "quantity": 100.00,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -694,8 +694,8 @@
         {
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
-            "quantity": "S/ 9.90",
-            "operation_name": "Ticket",
+            "quantity": 9.90,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -708,8 +708,8 @@
         {
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
-            "quantity": "S/ 56.90",
-            "operation_name": "Ticket",
+            "quantity": 56.90,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -722,8 +722,8 @@
         {
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
-            "quantity": "S/ 166.80",
-            "operation_name": "Ticket",
+            "quantity": 166.80,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -736,8 +736,8 @@
         {
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
-            "quantity": "S/ 47.88",
-            "operation_name": "Ticket",
+            "quantity": 47.88,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -750,8 +750,8 @@
         {
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
-            "quantity": "-",
-            "operation_name": "Ticket",
+            "quantity": 0,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -764,8 +764,8 @@
         {
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
-            "quantity": "-",
-            "operation_name": "Ticket",
+            "quantity": 0,
+            "operation_name": "Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -779,7 +779,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALL",
-            "quantity": "21.31 %",
+            "quantity": 21.31,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -793,7 +793,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
-            "quantity": "15.00 %",
+            "quantity": 15.00,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -807,7 +807,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEB",
-            "quantity": "56.48 %",
+            "quantity": 56.48,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -821,7 +821,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
-            "quantity": "7.21 %",
+            "quantity": 7.21,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -835,7 +835,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
-            "quantity": "100.00 %",
+            "quantity": 100.00,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -849,7 +849,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "DIDI",
-            "quantity": "33.29 %",
+            "quantity": 33.29,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -863,7 +863,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
-            "quantity": "9.89 %",
+            "quantity": 9.89,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -877,7 +877,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
-            "quantity": "56.82 %",
+            "quantity": 56.82,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -891,7 +891,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
-            "quantity": "100.00 %",
+            "quantity": 100.00,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -905,7 +905,7 @@
         {
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
-            "quantity": "-",
+            "quantity": 0,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -919,7 +919,7 @@
         {
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
-            "quantity": "-",
+            "quantity": 0,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -933,7 +933,7 @@
         {
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
-            "quantity": "-",
+            "quantity": 0,
             "operation_name": "% Soles",
 
             "time_id":"2023-10-01",
@@ -948,7 +948,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALL",
-            "quantity": "24.49 %",
+            "quantity": 24.49,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -962,7 +962,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
-            "quantity": "16.33 %",
+            "quantity": 16.33,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -976,7 +976,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEB",
-            "quantity": "55.10 %",
+            "quantity": 55.10,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -990,7 +990,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
-            "quantity": "4.08 %",
+            "quantity": 4.08,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -1004,7 +1004,7 @@
         {
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
-            "quantity": "100.00 %",
+            "quantity": 100.00,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -1018,7 +1018,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "DIDI",
-            "quantity": "14.29 %",
+            "quantity": 14.29,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -1032,7 +1032,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
-            "quantity": "42.86 %",
+            "quantity": 42.86,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -1046,7 +1046,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
-            "quantity": "42.86 %",
+            "quantity": 42.86,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -1060,7 +1060,7 @@
         {
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
-            "quantity": "100.00 %",
+            "quantity": 100.00,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -1074,7 +1074,7 @@
         {
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
-            "quantity": "-",
+            "quantity": 0,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -1088,7 +1088,7 @@
         {
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
-            "quantity": "-",
+            "quantity": 0,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",
@@ -1102,7 +1102,7 @@
         {
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
-            "quantity": "-",
+            "quantity": 0,
             "operation_name": "% Trans",
 
             "time_id":"2023-10-01",

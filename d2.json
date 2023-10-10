@@ -272,7 +272,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALL",
             "quantity": 507.41,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -286,7 +286,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
             "quantity": 357.10,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -300,7 +300,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEB",
             "quantity":  1344.80,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -314,7 +314,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
             "quantity":  171.60,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -328,7 +328,7 @@
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
             "quantity": 2380.91,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -342,7 +342,7 @@
             "type": "AGREGADORES",
             "sub_type": "DIDI",
             "quantity":  100.00,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -356,7 +356,7 @@
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
             "quantity": 29.70,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -370,7 +370,7 @@
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
             "quantity":  170.70,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -384,7 +384,7 @@
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
             "quantity": 300.40,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -398,7 +398,7 @@
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
             "quantity": 2681.31,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -412,7 +412,7 @@
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
             "quantity": 88.80,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -426,7 +426,7 @@
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
             "quantity": 11.20,
-            "operation_name": "Soles (S/.)",
+            "operation_name": "01. Soles (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -442,7 +442,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALL",
             "quantity": 12,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -456,7 +456,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
             "quantity": 8,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -470,7 +470,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEB",
             "quantity": 27,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -484,7 +484,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
             "quantity": 2,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -498,7 +498,7 @@
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
             "quantity": 49,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -512,7 +512,7 @@
             "type": "AGREGADORES",
             "sub_type": "DIDI",
             "quantity": 1,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -526,7 +526,7 @@
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
             "quantity": 3,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -540,7 +540,7 @@
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
             "quantity": 3,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -554,7 +554,7 @@
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
             "quantity": 7,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -568,7 +568,7 @@
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
             "quantity": 56,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -582,7 +582,7 @@
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
             "quantity": 87.50,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -596,7 +596,7 @@
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
             "quantity": 12.50,
-            "operation_name": "Trans.",
+            "operation_name": "02. Trans.",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -611,7 +611,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALL",
             "quantity": 42.28,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -625,7 +625,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
             "quantity": 44.64,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -639,7 +639,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEB",
             "quantity": 49.81,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -653,7 +653,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
             "quantity": 85.80,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -667,7 +667,7 @@
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
             "quantity": 222.53,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -681,7 +681,7 @@
             "type": "AGREGADORES",
             "sub_type": "DIDI",
             "quantity": 100.00,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -695,7 +695,7 @@
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
             "quantity": 9.90,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -709,7 +709,7 @@
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
             "quantity": 56.90,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -723,7 +723,7 @@
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
             "quantity": 166.80,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -737,7 +737,7 @@
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
             "quantity": 47.88,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -751,7 +751,7 @@
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
             "quantity": 0,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -765,7 +765,7 @@
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
             "quantity": 0,
-            "operation_name": "Ticket (S/.)",
+            "operation_name": "03. Ticket (S/.)",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -780,7 +780,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALL",
             "quantity": 21.31,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -794,7 +794,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
             "quantity": 15.00,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -808,7 +808,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEB",
             "quantity": 56.48,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -822,7 +822,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
             "quantity": 7.21,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -836,7 +836,7 @@
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
             "quantity": 100.00,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -850,7 +850,7 @@
             "type": "AGREGADORES",
             "sub_type": "DIDI",
             "quantity": 33.29,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -864,7 +864,7 @@
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
             "quantity": 9.89,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -878,7 +878,7 @@
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
             "quantity": 56.82,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -892,7 +892,7 @@
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
             "quantity": 100.00,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -906,7 +906,7 @@
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
             "quantity": 0,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -920,7 +920,7 @@
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
             "quantity": 0,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -934,7 +934,7 @@
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
             "quantity": 0,
-            "operation_name": "% Soles",
+            "operation_name": "04. % Soles",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -949,7 +949,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALL",
             "quantity": 24.49,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -963,7 +963,7 @@
             "type": "CALL Y WEB",
             "sub_type": "CALLYA",
             "quantity": 16.33,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -977,7 +977,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEB",
             "quantity": 55.10,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -991,7 +991,7 @@
             "type": "CALL Y WEB",
             "sub_type": "WEBYA",
             "quantity": 4.08,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -1005,7 +1005,7 @@
             "type": "CALL Y WEB",
             "sub_type": "TOTAL",
             "quantity": 100.00,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -1019,7 +1019,7 @@
             "type": "AGREGADORES",
             "sub_type": "DIDI",
             "quantity": 14.29,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -1033,7 +1033,7 @@
             "type": "AGREGADORES",
             "sub_type": "PEDIDOS YA",
             "quantity": 42.86,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -1047,7 +1047,7 @@
             "type": "AGREGADORES",
             "sub_type": "RAPPI",
             "quantity": 42.86,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -1061,7 +1061,7 @@
             "type": "AGREGADORES",
             "sub_type": "TOTAL",
             "quantity": 100.00,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -1075,7 +1075,7 @@
             "type": "TOTALS",
             "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
             "quantity": 0,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -1089,7 +1089,7 @@
             "type": "TOTALS",
             "sub_type": "% CALL Y WEB",
             "quantity": 0,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",
@@ -1103,7 +1103,7 @@
             "type": "TOTALS",
             "sub_type": "% AGREGADORES",
             "quantity": 0,
-            "operation_name": "% Trans",
+            "operation_name": "05. % Trans",
 
             "time_id":"2023-10-01",
             "sub_account_name":"Rokys",

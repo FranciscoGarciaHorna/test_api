@@ -1,4 +1,12 @@
 {
+    "incoming_calls":[
+        {"time_id":"2023-10-01", "quantity": 10},
+        {"time_id":"2023-10-02", "quantity": 20},
+        {"time_id":"2023-10-03", "quantity": 10},
+        {"time_id":"2023-10-04", "quantity": 10},
+        {"time_id":"2023-10-05", "quantity": 20},
+        {"time_id":"2023-10-06", "quantity": 10}
+    ],
    "outgoing_calls":[
         {"time_id":"2023-10-01", "quantity": 10},
         {"time_id":"2023-10-02", "quantity": 20},

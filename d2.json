@@ -266,5 +266,852 @@
             "quantity": 0,
             "time_id":"2023-10-01","sub_account_name":"Rokys","channel_name":"Web eccomerce","status_name":"Pendiente","pos_name":"Solo franquicias","logitics_operator_name":"General"
         }
+    ],
+    "table_sales_call_web_aggregators": [
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALL",
+            "quantity": "S/ 507.41",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALLYA",
+            "quantity": "S/ 357.10",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEB",
+            "quantity": "S/ 1,344.80",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEBYA",
+            "quantity": "S/ 171.60",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "TOTAL",
+            "quantity": "S/ 2,380.91",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "DIDI",
+            "quantity": "S/ 507.41",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "PEDIDOS YA",
+            "quantity": "S/ 357.10",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "RAPPI",
+            "quantity": "S/ 1,344.80",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "TOTAL",
+            "quantity": "S/ 171.60",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
+            "quantity": "S/ 2,681.31",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% CALL Y WEB",
+            "quantity": "88.80 %",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% AGREGADORES",
+            "quantity": "11.20 %",
+            "operation_name": "Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+
+        
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALL",
+            "quantity": "12",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALLYA",
+            "quantity": "23",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEB",
+            "quantity": "80",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEBYA",
+            "quantity": "45",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "TOTAL",
+            "quantity": "45",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "DIDI",
+            "quantity": "41",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "PEDIDOS YA",
+            "quantity": "6",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "RAPPI",
+            "quantity": "0",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "TOTAL",
+            "quantity": "60",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
+            "quantity": "31",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% CALL Y WEB",
+            "quantity": "88.80 %",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% AGREGADORES",
+            "quantity": "11.20 %",
+            "operation_name": "Trans.",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALL",
+            "quantity": "S/ 42.28",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALLYA",
+            "quantity": "S/ 44.64",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEB",
+            "quantity": "S/ 49.81",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEBYA",
+            "quantity": "S/ 85.80",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "TOTAL",
+            "quantity": "S/ 222.53",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "DIDI",
+            "quantity": "S/ 100.00",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "PEDIDOS YA",
+            "quantity": "S/ 9.90",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "RAPPI",
+            "quantity": "S/ 56.90",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "TOTAL",
+            "quantity": "S/ 166.80",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
+            "quantity": "S/ 47.88",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% CALL Y WEB",
+            "quantity": "-",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% AGREGADORES",
+            "quantity": "-",
+            "operation_name": "Ticket",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALL",
+            "quantity": "21.31 %",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALLYA",
+            "quantity": "15.00 %",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEB",
+            "quantity": "56.48 %",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEBYA",
+            "quantity": "7.21 %",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "TOTAL",
+            "quantity": "100.00 %",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "DIDI",
+            "quantity": "33.29 %",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "PEDIDOS YA",
+            "quantity": "9.89 %",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "RAPPI",
+            "quantity": "56.82 %",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "TOTAL",
+            "quantity": "100.00 %",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
+            "quantity": "-",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% CALL Y WEB",
+            "quantity": "-",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% AGREGADORES",
+            "quantity": "-",
+            "operation_name": "% Soles",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALL",
+            "quantity": "24.49 %",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "CALLYA",
+            "quantity": "16.33 %",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEB",
+            "quantity": "55.10 %",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "WEBYA",
+            "quantity": "4.08 %",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "CALL Y WEB",
+            "sub_type": "TOTAL",
+            "quantity": "100.00 %",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "DIDI",
+            "quantity": "14.29 %",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "PEDIDOS YA",
+            "quantity": "42.86 %",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "RAPPI",
+            "quantity": "42.86 %",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "AGREGADORES",
+            "sub_type": "TOTAL",
+            "quantity": "100.00 %",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "TOTAL (WEB + CALL + AGREGADORES)",
+            "quantity": "-",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% CALL Y WEB",
+            "quantity": "-",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        },
+        {
+            "type": "TOTALS",
+            "sub_type": "% AGREGADORES",
+            "quantity": "-",
+            "operation_name": "% Trans",
+
+            "time_id":"2023-10-01",
+            "sub_account_name":"Rokys",
+            "channel_name":"Web eccomerce",
+            "store_name": "BARRANCA 01",
+            "status_name":"Pendiente",
+            "pos_name":"Solo franquicias",
+            "logitics_operator_name":"General"
+        }
     ]
 }

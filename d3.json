@@ -30,5 +30,29 @@
         {"time_id":"2023-10-04", "call_type_name": "Reserva Rokys Show", "quantity": 348},
         {"time_id":"2023-10-05", "call_type_name": "Mala Atencion", "quantity": 238},
         {"time_id":"2023-10-06", "call_type_name": "Mala Atencion", "quantity": 18}
+    ],
+    "total_calls":[
+        {"time_id":"2023-10-01", "quantity": 10},
+        {"time_id":"2023-10-02", "quantity": 20},
+        {"time_id":"2023-10-03", "quantity": 10},
+        {"time_id":"2023-10-04", "quantity": 10},
+        {"time_id":"2023-10-05", "quantity": 20},
+        {"time_id":"2023-10-06", "quantity": 10}
+    ],
+    "total_orders":[
+        {"time_id":"2023-10-01", "quantity": 1},
+        {"time_id":"2023-10-02", "quantity": 2},
+        {"time_id":"2023-10-03", "quantity": 1},
+        {"time_id":"2023-10-04", "quantity": 1},
+        {"time_id":"2023-10-05", "quantity": 2},
+        {"time_id":"2023-10-06", "quantity": 1}
+    ],
+    "sales":[
+        {"time_id":"2023-10-01", "total_sales": 153.9},
+        {"time_id":"2023-10-02", "total_sales": 253.9},
+        {"time_id":"2023-10-03", "total_sales": 153.9},
+        {"time_id":"2023-10-04", "total_sales": 153.9},
+        {"time_id":"2023-10-05", "total_sales": 253.9},
+        {"time_id":"2023-10-06", "total_sales": 153.9}
     ]
 }
